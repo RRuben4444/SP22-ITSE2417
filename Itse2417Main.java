@@ -56,7 +56,7 @@ public class Itse2417Main
             new FinalProj(),          // Koranda
             new FinalProj(),          // Pokluda
             new FinalProj(),          // Rascon
-            new FinalProj(),          // Rodriguez
+            new Rodriguez(),          // Rodriguez
             new FinalProj(),          // Subba
             new FinalProj(),          // Terrell
             new FinalProj(),          // Willis Hall
